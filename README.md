@@ -382,10 +382,3 @@ I'm grateful for my best friend coming to visit me. I know we'll have so much fu
 relationship will continue to flourish. We really are each other's number one fan...
 ```
 
----
-
-### ✅ It worked!
-
-The fine-tuned model now generates journal entries in the training data's style — covering similar topics, people, and tone. 
-
-If you have questions, reach out on [Discord](https://discord.gg/RN2a436M73) or [X / Twitter](https://x.com/harperscarroll).
