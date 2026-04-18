@@ -1,6 +1,6 @@
 # Fine-tuning Mistral on your own data 🤙
 
-Welcome!
+Welcome! 
 
 In this notebook and tutorial, we will fine-tune the [Mistral 7B](https://github.com/mistralai/mistral-src) model — which outperforms Llama 2 13B on all tested benchmarks — ***on your own data!***
 
